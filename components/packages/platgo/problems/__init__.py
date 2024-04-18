@@ -11,6 +11,7 @@ from .single_objective.xugong.comprehensive import (  # noqa: F401
     XugongComprehensive,
 )  # noqa: F401
 from .single_objective.real_world_SOPs.SOP_F1 import SOP_F1
+from .single_objective.real_world_SOPs.SOP_F20 import SOP_F20
 from .single_objective.satellkite.csp2 import SatellkiteCSP2
 from .single_objective.real_world_SOPs.TSP import TSP
 from .single_objective.real_world_SOPs.SOP_F12 import SOP_F12

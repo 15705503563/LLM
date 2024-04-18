@@ -189,8 +189,8 @@ from components.packages.platgo.algorithms import GA
 if __name__ == "__main__":
     # 内置问题
     optimization_problem = {
-        "name": "TSP",
-        "n_var": 30,
+        "name": "SOP_F20",
+        "n_var": 6,
         "algoResultType": 0,
     }
     print(optimization_problem)
